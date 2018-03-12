@@ -11,7 +11,9 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          i changed thisa, edit <code>src/App.js</code> and save to reload.
+          Go to the "App.css" file and change some of the features in the App-intro section,
+          that will change the style of this paragraph.
+
         </p>
       </div>
     );
